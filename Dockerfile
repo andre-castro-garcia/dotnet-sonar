@@ -1,5 +1,5 @@
 #
-# Dotnet SDK with OpenJDK Java 8 JRE Dockerfile
+# Dotnet SDK with Sonar Files
 #
 
 # Pull base image.
